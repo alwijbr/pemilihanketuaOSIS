@@ -5,4 +5,5 @@ Sistem pendukung keputusan ini menggunakan metode SAW, dimana metode ini menggun
 fitur yang ada diantaranya:
 
 1.CRUD untuk Alternatif, Kriteria, dan Nilai.
+
 2.Graphic chart dengan chart js berdasarkan nilai akhir.
